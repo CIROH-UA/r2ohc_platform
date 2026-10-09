@@ -1,81 +1,25 @@
-#### AWI Open Source Project Template Instructions
+# CIROH Research to Operations Hybrid Cloud Platform
+## CIROH R2OHC Platform
 
-1. Create a new project, doing one of the following:
-   1. When creating the new repository, use this template to initialize it.
-   2. Clone this repository and copy the contents to a new repository manually.
-2. Update the README, replacing the contents below as prescribed.
-3. Add any libraries, assets, or hard dependencies whose source code will be included in the project's repository to [Credits And References](#credits-and-references) section.
-   1. If there are no such dependencies, consider including a statement to that effect.
-4. Delete these instructions and everything up to the _Project Title_ from the README.
-5. Write some great software and tell people about it.
+CIROH R2OHC Cyberinfrastructure empowers CIROH consortium members by providing a scalable, efficient, and user-friendly computing platform. We understand the challenges researchers face in managing computational resources, and R2OHC alleviates these burdens by offering a suite of pre-configured environments and resources. Our team of engineers and developers meticulously optimizes both cloud-based (AWS and Google Cloud) and on-premise infrastructure (Pantarhei HPC cluster) to ensure unparalleled flexibility and scalability.
 
-> Keep the README fresh! It's the first thing people see and will make the initial impression.
+Taken together, these resources form a hybrid cloud that leverages the most useful aspects of both cloud providers and locally-managed resources. This translates into a powerful platform that includes:
+
+- Simplified Access: CIROH Cyberinfrastructure streamlines access to computational environments, eliminating the need for time-consuming installations and maintenance.
+- Unmatched Flexibility: Our multi-cloud and on-premise infrastructure provides a diverse range of options to suit your specific research needs.
+- Scalable Resources: CIROH Cyberinfrastrucure readily scales to accommodate your growing data analysis and computational demands.
+- Pre-Installed Software: Leverage pre-installed hydrological software packages to jumpstart your research endeavors.
+- Streamlined Development: Benefit from the secure and rapid application development and deployment capabilities offered by Cloud.
+
+CIROH R2OHC Cyberinfrastructure is meticulously designed to empower CIROH researchers and innovators to achieve groundbreaking results in hydrology. Join us and unlock the full potential of your research today!
 
 ----
 
-# Project Title
+## Requesting access
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+For more information about how to request access to CIROH R2OHC services, as well as general information on CIROH Infrastructure, the [Infrastructure Access page on CIROH Hub](https://hub.ciroh.org/docs/services/access) is the best place to start.
 
-Other things to include:
-
-- **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-- **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-- **Links to production or demo instances**
-- Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
-
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-![Example screenshot of a repository](doc/Screenshot.png)
-
-## Dependencies
-
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
-
-## Installation
-
-Detailed instructions on how to install, configure, and get the project running.
-This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALL](INSTALL.md) document.
-
-## Configuration
-
-If the software is configurable, describe it in detail, either here or in other documentation to which you link.
-
-## Usage
-
-Show users how to use the software.
-Be specific.
-Use appropriate formatting when showing code snippets.
-
-## How to test the software
-
-If the software includes automated tests, detail how to run those tests.
-
-## Known issues
-
-Document any known significant shortcomings with the software.
-
-## Getting help
-
-Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
-
-### Example
-
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
-
-## Getting involved
-
-This section should detail why people should get involved and describe key areas you are
-currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
-important pieces, etc.
-
-General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
+Alternatively, if you already know which form you're looking for, you can head to this repository's [Issues page](https://github.com/CIROH-UA/r2ohc_platform/issues) and submit your ticket there.
 
 ----
 
@@ -85,8 +29,6 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 
 ----
 
-## Credits and references
-
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+| | |
+| --- | --- |
+| ![CIROH Logo](./docs/img/ciroh-bgsafe.png) | Funding for this project was provided by the National Oceanic & Atmospheric Administration (NOAA), awarded to the Cooperative Institute for Research to Operations in Hydrology (CIROH) through the NOAA Cooperative Agreement with The University of Alabama (NA22NWS4320003). |
